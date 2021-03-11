@@ -1,3 +1,0 @@
-This is the first line of the file.
-
-Added a new line just now
